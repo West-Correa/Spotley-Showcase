@@ -165,9 +165,9 @@ flowchart LR
 **Contacto:** <!-- cole o link do seu perfil LinkedIn -->
 
 **Contacto:** 
-* 💼 **LinkedIn:** [linkedin.com/in/wesleycorrealeite](https://www.linkedin.com/in/wesleycorrealeite)[cite: 3, 4]
-* ✉️ **E-mail:** [West.correa@gmail.com](mailto:West.correa@gmail.com)[cite: 3, 4]
-* 🐙 **GitHub:** [github.com/West-Correa/Spotley-Showcase](https://github.com/West-Correa/Spotley-Showcase)[cite: 3]
+* 💼 **LinkedIn:** [linkedin.com/in/wesleycorrealeite](https://www.linkedin.com/in/wesleycorrealeite)
+* ✉️ **E-mail:** [West.correa@gmail.com](mailto:West.correa@gmail.com)
+* 🐙 **GitHub:** [github.com/West-Correa/Spotley-Showcase](https://github.com/West-Correa/Spotley-Showcase)
 
 
 ---
