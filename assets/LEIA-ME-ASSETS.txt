@@ -1,0 +1,14 @@
+Imagens já renomeadas e ligadas no README.md:
+
+Capas dos vídeos:
+- thumb-pt1.jpeg … thumb-pt4.jpeg
+
+Screenshots:
+- shot-airplane.jpeg
+- shot-search-download.jpeg
+- shot-review.jpeg
+- shot-player-lock.jpeg
+- shot-sleep-timer.jpeg
+
+Opcionais (não incluídos de propósito):
+- shot-docker / architecture-diagram
