@@ -34,10 +34,10 @@ Quando publicar, substitua cada `COLE_LINK_LINKEDIN_PT_X` pelo URL do post.
 
 | Parte | Tema | Capa | Assistir |
 |-------|------|------|----------|
-| **1** | Visão geral + Modo Avião (Local-First) | [![Pt.1](./assets/thumb-pt1.jpeg)](COLE_LINK_LINKEDIN_PT_1) | [Abrir no LinkedIn →](COLE_LINK_LINKEDIN_PT_1) |
-| **2** | Downloads em 2º plano (fila Server-Driven) | [![Pt.2](./assets/thumb-pt2.jpeg)](COLE_LINK_LINKEDIN_PT_2) | [Abrir no LinkedIn →](COLE_LINK_LINKEDIN_PT_2) |
-| **3** | Metadados públicos + dedupe local | [![Pt.3](./assets/thumb-pt3.jpeg)](COLE_LINK_LINKEDIN_PT_3) | [Abrir no LinkedIn →](COLE_LINK_LINKEDIN_PT_3) |
-| **4** | Player nativo + Timer de Sono | [![Pt.4](./assets/thumb-pt4.jpeg)](COLE_LINK_LINKEDIN_PT_4) | [Abrir no LinkedIn →](COLE_LINK_LINKEDIN_PT_4) |
+| **1** | Visão geral + Modo Avião (Local-First) | [![Pt.1](./assets/thumb-pt1.jpeg)](LINK_LINKEDIN_PT_1) | [Abrir no LinkedIn →](LINK_LINKEDIN_PT_1) |
+| **2** | Downloads em 2º plano (fila Server-Driven) | [![Pt.2](./assets/thumb-pt2.jpeg)](LINK_LINKEDIN_PT_2) | [Abrir no LinkedIn →](LINK_LINKEDIN_PT_2) |
+| **3** | Metadados públicos + dedupe local | [![Pt.3](./assets/thumb-pt3.jpeg)](LINK_LINKEDIN_PT_3) | [Abrir no LinkedIn →](LINK_LINKEDIN_PT_3) |
+| **4** | Player nativo + Timer de Sono | [![Pt.4](./assets/thumb-pt4.jpeg)](LINK_LINKEDIN_PT_4) | [Abrir no LinkedIn →](LINK_LINKEDIN_PT_4) |
 
 ### Resumo técnico da série
 
