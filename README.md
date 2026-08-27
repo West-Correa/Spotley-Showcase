@@ -29,8 +29,7 @@ Desenvolvi de ponta a ponta um player de música pessoal sob o paradigma **Local
 
 ## Série de vídeos (LinkedIn)
 
-Os vídeos estão no LinkedIn (melhor para alcance; o GitHub fica leve).  
-Quando publicar, substitua cada `COLE_LINK_LINKEDIN_PT_X` pelo URL do post.
+
 
 | Parte | Tema | Capa | Assistir |
 |-------|------|------|----------|
